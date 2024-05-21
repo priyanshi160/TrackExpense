@@ -5,11 +5,6 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 
-var _helperPluginUtils = require("@babel/helper-plugin-utils");
-
-var _pluginSyntaxExportNamespaceFrom = _interopRequireDefault(require("@babel/plugin-syntax-export-namespace-from"));
-
-var _core = require("@babel/core");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
